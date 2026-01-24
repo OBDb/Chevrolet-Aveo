@@ -1,15 +1,33 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Aveo"
+
 generations:
   - name: "First Generation (T200)"
     start_year: 2002
+    end_year: 2005
+    description: "The original Chevrolet Aveo was based on the T200 platform, introduced in September 2002 as the Daewoo Kalos. It was available in both sedan and five-door hatchback body styles. Designed by Italdesign Giugiaro, it featured conservative styling with a focus on practicality and affordability. Engine options ranged from 1.2L to 1.6L producing between 70-110 HP. The T200 was sold in three and four available body styles: a 4-door sedan and 5-door hatchback from the beginning of production in 2002, and a 3-door hatchback available in certain European markets beginning in 2005."
+
+  - name: "First Generation (T250 Facelift)"
+    start_year: 2005
     end_year: 2011
-    description: "The original Chevrolet Aveo (initially marketed as Daewoo Kalos in some markets) was a subcompact car available in both sedan and five-door hatchback body styles. Designed by Italdesign, it featured relatively conservative styling with a focus on practicality and affordability. Powertrain options included various small-displacement engines ranging from 1.2L to 1.6L producing between 70-110 HP, paired with either manual or automatic transmissions. The interior was basic but functional, with an emphasis on space efficiency rather than premium features. Safety equipment was minimal by modern standards, though later models received upgrades in some markets. A facelift in 2007 updated the styling and introduced the Aveo5 hatchback name in North America. This generation was developed by Daewoo before GM's acquisition of the Korean company, and represented GM's entry-level offering in many global markets."
+    description: "GM introduced the heavily facelifted sedan at the 2005 Auto Shanghai, bearing the internal code T250 and marketed in South Korea as the Daewoo Gentra. Revisions included exterior styling changes, a new interior instrument panel, and minor equipment changes including increased sound deadening. A facelifted hatchback with the sedan's updated instrument panel was presented as the Chevrolet Aveo at the 2007 Frankfurt Motor Show for global marketing. The Korean market received its own distinct restyle of the hatchback, the Gentra X. Engine updates included a 1.2L S-TEC II engine with dual overhead camshaft (DOHC) and timing chain system, and a 1.6L GEN-III Ecotec Family 1 engine with variable valve timing."
 
   - name: "Second Generation (T300)"
     start_year: 2011
-    end_year: 2020
-    description: "The second-generation Aveo (marketed as Sonic in North America and Australia) was designed under GM's global development program and represented a significant upgrade over its predecessor. The exterior featured more dynamic styling with motorcycle-inspired headlights, hidden rear door handles on the hatchback, and a more contemporary overall design. Built on GM's Gamma II platform, it offered improved driving dynamics and safety features. Engine options included 1.2L to 1.8L gasoline engines and 1.3L diesel variants in some markets, with the North American models featuring a 1.8L naturally aspirated or 1.4L turbocharged engine. The interior quality improved substantially with better materials, available smart features, and increased technology options including touchscreen infotainment in later models. Safety enhancements included multiple airbags and electronic stability control. This generation elevated the Aveo/Sonic from a basic economy car to a more competitive subcompact with appealing features and improved refinement."
+    end_year: 2016
+    description: "The second-generation Aveo debuted at the 2010 Paris Motor Show, using the GM Gamma II global subcompact platform. It was marketed as the Chevrolet Sonic in the Americas, Japan, Middle East, South Africa, and several Southeast Asian markets, and as Holden Barina in Australia and New Zealand. The exterior featured more dynamic styling with motorcycle-inspired headlights and a more contemporary overall design. North American models featured a 1.8-liter engine producing 135 hp and 125 lb-ft torque, or a 1.4-liter turbo engine producing 138 hp and 148 lb-ft torque. On August 2, 2011, the Sonic entered production at Orion Assembly in Michigan."
 
-  - name: "Third Generation"
-    start_year: 2020
+  - name: "Second Generation (T300 Facelift)"
+    start_year: 2016
+    end_year: 2020
+    description: "At the 2016 New York International Auto Show, Chevrolet revealed the refreshed North American version of the Sonic hatchback and sedan. The facelift brought a restyled front fascia, new LED tail lights, and refreshed equipment. The LTZ trim level was renamed Premier for the 2017 model year. The RS trim level became a standard appearance package for all Hatchback models, featuring unique upholstery, red interior accents and stitching, unique RS badging, and unique aluminum-alloy wheels. Production of the second-generation model ended in October 2020, with the Sonic discontinued in North America due to GM's plans to convert Orion Assembly to EV production."
+
+  - name: "Chevrolet Sail-based Aveo (Mexico/Central America)"
+    start_year: 2017
+    end_year: 2023
+    description: "In several Central American countries, the Aveo nameplate was used for the third-generation Chevrolet Sail sedan, which went on sale in Mexico in November 2017 for the 2019 model year to replace the first-generation Aveo sedan. The Chinese-made Sail was renamed to avoid being related to the second-generation Sail, which obtained a zero-star rating in Latin NCAP. It was marketed alongside the Sonic as a more budget offering until the latter's discontinuation. Available as a sedan, it featured a 1.5-liter engine."
+
+  - name: "Third Generation (310C)"
+    start_year: 2023
     end_year: null
-    description: "The current generation, primarily designed for emerging markets, is based on the GEM (Global Emerging Markets) platform developed by SAIC-GM-Wuling. In some markets, this vehicle is a rebadged version of the Baojun 310 or Chevrolet Onix depending on the region. The design features modern Chevrolet styling elements with a large grille, swept-back headlights, and a more contemporary overall appearance. Engine options typically include small-displacement, fuel-efficient units around 1.0L to 1.5L with both naturally aspirated and turbocharged options. The interior offers improved connectivity with touchscreen infotainment systems supporting smartphone integration, while safety features have been upgraded to include multiple airbags and electronic stability control as standard in most markets. This generation is not sold in North America, where the Aveo/Sonic was discontinued. The third-generation Aveo represents Chevrolet's continued focus on providing affordable transportation in global markets with improved technology and safety features compared to previous generations."
+    description: "The new generation Aveo was introduced in December 2022 and launched in February 2023 for the Mexican market for the 2024 model year. Developed and produced by SAIC-GM-Wuling under model code 310C, it is available as a 5-door hatchback and 4-door sedan. The design features modern Chevrolet styling elements with a large grille and swept-back headlights. Engine options include a 1.5L LAR straight-four engine with 73 kW (100 hp) paired with a 6-speed manual or continuously variable transmission (CVT). In Chile and other South American countries since September 2023, it is marketed as the Chevrolet Sail. The Aveo is also sold in Egypt as the Chevrolet Optra."
